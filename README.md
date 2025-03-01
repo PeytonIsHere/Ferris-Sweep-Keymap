@@ -2,7 +2,7 @@
 
 This is my custom keymap for the Ferris Sweep split keyboard, using the **Colemak DH** layout. It includes multiple layers optimized for me.
 Im using a Sea picro controler. I've had a lot of problems with flashing this (ai made this worse)
-If you have anything to make this better please fix it, thanks.
+If you have anything to make this keymap better please fix it, thanks.
 
 ## Features
 - **Colemak DH** as the base layout
