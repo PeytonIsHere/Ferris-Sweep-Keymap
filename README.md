@@ -8,7 +8,7 @@ If you have anything to make this keymap better please fix it, thanks.
 - **Colemak DH** as the base layout
 - Just Three layers for navigation, symbols, and function keys
 
-## How to flash a rp2040 board on split keyboard
+## How to flash an rp2040 board on a split keyboard
 ### **1. Compile the Keymap**
 Run the following command to compile the firmware:
 ```bash
