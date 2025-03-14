@@ -37,10 +37,10 @@
       "KC_COMM",
       "KC_DOT",
       "KC_SLSH",
-      "ANY(QK_TRI_LAYER_UPPER)",
+      "ANY(QK_TRI_LAYER_LOWER)",
       "KC_LSFT",
       "KC_SPC",
-      "ANY(QK_TRI_LAYER_LOWER)"
+      "ANY(QK_TRI_LAYER_UPPER)"
     ],
     [
       "KC_ESC",
